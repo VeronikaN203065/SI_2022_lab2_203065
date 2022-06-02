@@ -6,6 +6,7 @@ Veronika Nushkova 203065
 
 
 Control Flow Graph
+![Diagram FINAL](https://user-images.githubusercontent.com/102096318/171693754-5c97e68e-92bc-4fc0-a305-e479d12b6f4b.png)
 
 
 Цикломатска комплексност
