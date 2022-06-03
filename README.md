@@ -14,7 +14,7 @@ Veronika Nushkova 203065
  Со следење на табелата се изминуваат успешно сите направени тестови.
 
  # Тест случаи според критериумот Every path
-![image](https://user-images.githubusercontent.com/102096318/171853901-f45dbfbe-3a0e-4ed5-a6d5-a630f3f85933.png)
+![image](https://user-images.githubusercontent.com/102096318/171858655-d9c2aa3d-09ad-4efe-8bde-c6a6e2a0778c.png)
 Со следење на табелата се изминуваат успешно сите направени тестови.
 Тестирање:
 @Test
