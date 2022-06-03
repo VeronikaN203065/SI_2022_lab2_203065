@@ -10,7 +10,7 @@ Veronika Nushkova 203065
 
 
  # Тест случаи според критериумот Every statement
-![image](https://user-images.githubusercontent.com/102096318/171858774-828d66f8-112b-4218-9b93-4c67619338ff.png)
+![image](https://user-images.githubusercontent.com/102096318/171858932-45470790-d692-4dec-b6b8-3bb0cbc971b3.png)
  Со следење на табелата се изминуваат успешно сите направени тестови.
 
  # Тест случаи според критериумот Every path
